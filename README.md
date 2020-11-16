@@ -6,7 +6,7 @@ Un blog incre&iacute;ble para el[ curso de Git y Github](https://platzi.com/curs
 ## En este curso vemos de todo
 * Todos los comandos de Git
 * El flujo de trabajo en Github
-* El verdadero amor por las buenas prÃ¡cticas
+* El verdadero amor por las buenas pr&aacute;cticas
 * Trucos muy locos del profesor
 * Las personalidades m&uacute;ltiples de Freddy
 * Creado por el increible Platzi Team
