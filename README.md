@@ -9,6 +9,7 @@ Un blog increÃ­ble para el[ curso de Git y Github](https://platzi.com/cursos/g
 * El verdadero amor por las buenas prÃ¡cticas
 * Trucos muy locos del profesor
 * Las personalidades mÃºltiples de Freddy
+* Creado por el increÃ­ble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
